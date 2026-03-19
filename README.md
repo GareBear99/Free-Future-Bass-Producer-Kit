@@ -1,1 +1,168 @@
-# Free-Future-Bass-Producer-Kit
+# 🎛️ CLEAN KIT v3 — Free Producer Sample Pack
+
+> **24-bit / 44.1kHz stereo · Seamless loops · Zero-click transitions · Free to use**
+
+A fully synthesized, professionally processed sample pack covering 8 genres. Every loop is crossfade-treated for seamless playback in any DAW or sampler — no clicks, no pops, no static at the loop point.
+
+---
+
+## 📦 Download
+
+**[⬇️ Download CLEAN_KIT_v3.zip](./CLEAN_KIT_v3.zip)** — ~25MB
+
+---
+
+## 🗂️ Contents
+
+```
+CLEAN_KIT_v3/
+├── loops/              14 drum loops across 8 genres
+├── fills/              2 transition fills
+└── future_bass_kit/
+    ├── drums/          7 one-shots
+    ├── bass/           4 bass sounds
+    ├── synths/         5 melodic synths
+    ├── pads/           2 lush pads
+    └── fx/             6 FX sounds
+```
+
+**Total: 40 files · All 24-bit WAV · Stereo**
+
+---
+
+## 🥁 Loops
+
+| File | BPM | Genre | Duration |
+|------|-----|-------|----------|
+| `FutureBass_150bpm_01.wav` | 150 | Future Bass — bouncy, syncopated | 4.25s |
+| `FutureBass_150bpm_02.wav` | 150 | Future Bass — choppy, off-grid | 4.25s |
+| `Trap_140bpm_01.wav` | 140 | Trap — dense 32nd hi-hat rolls | 4.48s |
+| `Trap_140bpm_02_Sparse.wav` | 140 | Trap — sparse, cold, rimshots | 4.48s |
+| `UKDrill_140bpm_01.wav` | 140 | UK Drill — digital hats, hard | 4.48s |
+| `LoFi_HipHop_85bpm_01.wav` | 85 | Lo-Fi Hip Hop — vinyl crackle | 6.70s |
+| `LoFi_BoomBap_85bpm_02.wav` | 85 | Lo-Fi Boom Bap — heavy swing | 6.70s |
+| `House_124bpm_01.wav` | 124 | House — 4-on-the-floor | 4.92s |
+| `House_124bpm_02_Chicago.wav` | 124 | Chicago House — deep groove | 4.92s |
+| `Jungle_DnB_170bpm_01.wav` | 170 | Jungle/DnB — Amen-inspired | 3.87s |
+| `LiquidDnB_170bpm_02.wav` | 170 | Liquid DnB — smooth | 3.87s |
+| `BoomBap_90bpm_01.wav` | 90 | Boom Bap — ghost snares, pocket | 6.38s |
+| `BoomBap_90bpm_02_HalfTime.wav` | 90 | Boom Bap — half-time feel | 6.38s |
+| `Afrobeats_100bpm_01.wav` | 100 | Afrobeats — polyrhythmic shaker | 5.85s |
+
+---
+
+## 🔁 Fills
+
+| File | BPM | Description | Duration |
+|------|-----|-------------|----------|
+| `Fill_SnareRoll_140bpm.wav` | 140 | Accelerating 32nd snare roll → crash | 2.96s |
+| `Fill_TomRoll_140bpm.wav` | 140 | Descending tom cascade → crash | 2.96s |
+
+---
+
+## 🌊 Future Bass Kit
+
+### Drums
+| File | Description | Duration |
+|------|-------------|----------|
+| `FB_Kick_01.wav` | Sub punch + pitch sweep + click transient | 1.20s |
+| `FB_Kick_Punchy.wav` | Snappy kick variant with noise transient | 1.00s |
+| `FB_Snare_01.wav` | Tuned body + filtered noise layer | 0.90s |
+| `FB_Clap_01.wav` | 4-layer multi-hit clap with shimmer tail | 0.85s |
+| `FB_Hat_Closed.wav` | Tight filtered noise + metallic overtones | 0.62s |
+| `FB_Hat_Open.wav` | Open hat with natural choke | 0.95s |
+| `FB_Shaker.wav` | Bandpass shaker | 0.68s |
+
+### Bass
+| File | Description | Duration |
+|------|-------------|----------|
+| `808_A1.wav` | 808 sub bass — A1 (55Hz) | 2.90s |
+| `808_C2.wav` | 808 sub bass — C2 (65.4Hz) | 2.90s |
+| `808_E2.wav` | 808 sub bass — E2 (82.4Hz) | 2.90s |
+| `FB_WobbleBass.wav` | LFO filter-modulated wobble bass | 2.00s |
+
+### Synths
+| File | Description | Duration |
+|------|-------------|----------|
+| `FB_SupersawChord_Cmaj7.wav` | 7-osc supersaw Cmaj7 + reverb + chorus | 4.00s |
+| `FB_VocalLead_F4.wav` | Formant vocal synth lead with vibrato | 3.00s |
+| `FB_PluckLead_A4.wav` | FM pluck with decaying brightness | 2.20s |
+| `FB_BellPad_C5.wav` | Inharmonic FM bell (DX7-style) | 4.50s |
+| `FB_Arp_Cmaj.wav` | C major pentatonic FM pluck arp | 2.20s |
+
+### Pads
+| File | Description | Duration |
+|------|-------------|----------|
+| `FB_LushPad_Cmaj7.wav` | 25-osc detuned pad + slow LFO filter + chorus | 5.00s |
+| `FB_DreamyPad_Am9.wav` | Breathing Am9 ambient pad | 6.00s |
+
+### FX
+| File | Description | Duration |
+|------|-------------|----------|
+| `FB_Riser.wav` | Exponential frequency sweep + rising filter | 4.90s |
+| `FB_Downlifter.wav` | Falling frequency sweep | 3.90s |
+| `FB_Impact.wav` | Sub thump + crash + mid body | 2.40s |
+| `FB_ReverseCymbal.wav` | Metallic noise reverse build | 2.90s |
+| `FB_VinylCrackle.wav` | Lo-fi vinyl texture layer | 4.90s |
+| `FB_StutterFX.wav` | Gated pitch-jump stutter sequence | 1.90s |
+
+---
+
+## 🔧 Technical Details
+
+| Spec | Value |
+|------|-------|
+| Sample Rate | 44,100 Hz |
+| Bit Depth | 24-bit |
+| Channels | Stereo |
+| Format | WAV (PCM) |
+| Loop Treatment | Cosine crossfade (1-bar) |
+| Fade-in | 3ms cosine (zero-click) |
+| Tail | 300ms silence after crossfade |
+
+### How the loops are treated
+
+Every loop uses a **1-bar cosine crossfade** at the loop point:
+
+```
+[==== LOOP BODY ====][XFADE TAIL    ][ 300ms silence ]
+                     ↑ end fades out
+                     ↑ start fades in simultaneously
+                     = seamless blend, zero click
+```
+
+This means the file is slightly longer than a perfect 2-bar loop — the extra samples at the end blend back into the beginning. Import as a one-shot or trim to the bar line if you want a perfect loop region in your DAW.
+
+---
+
+## 🎛️ DAW Usage Tips
+
+**For seamless looping in your DAW:**
+1. Drop the loop on a track
+2. Set your loop region to exactly 2 bars at the file's BPM
+3. The crossfade tail handles the transition automatically — no need to add your own fade
+
+**For one-shots:**
+- All files start at zero amplitude (3ms fade-in applied) so you won't get a click on any trigger
+
+**808s:**
+- Tune them in your sampler — they're pitched to A1, C2, E2, G2
+- Layer the sub with your kick for maximum punch
+
+---
+
+## 📜 License
+
+Free to use in personal and commercial projects. No credit required but appreciated.  
+All sounds are 100% original — synthesized from scratch, no samples sampled.
+
+---
+
+## 🛠️ Built With
+
+Pure Python synthesis — `numpy` · `scipy` · `soundfile`  
+No hardware. No sample libraries. Every waveform generated from mathematical first principles.
+
+---
+
+*Made with Claude · Clean Kit v3*
