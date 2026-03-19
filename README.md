@@ -8,14 +8,13 @@ A fully synthesized, professionally processed sample pack covering 8 genres. Eve
 
 ## 📦 Download
 
-**[⬇️ Download CLEAN_KIT_v3.zip](./CLEAN_KIT_v3.zip)** — ~25MB
 
 ---
 
 ## 🗂️ Contents
 
 ```
-CLEAN_KIT_v3/
+
 ├── loops/              14 drum loops across 8 genres
 ├── fills/              2 transition fills
 └── future_bass_kit/
@@ -164,5 +163,3 @@ Pure Python synthesis — `numpy` · `scipy` · `soundfile`
 No hardware. No sample libraries. Every waveform generated from mathematical first principles.
 
 ---
-
-*Made with Claude · Clean Kit v3*
