@@ -1,4 +1,4 @@
-# 🎛️ CLEAN KIT v3 — Free Producer Sample Pack
+# 🎛️ Future Bass - Free Producer Sample Pack
 
 > **24-bit / 44.1kHz stereo · Seamless loops · Zero-click transitions · Free to use**
 
