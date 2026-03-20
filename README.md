@@ -2,8 +2,7 @@
 
 > **24-bit / 44.1kHz stereo · Seamless loops · Zero-click transitions · Free to use**
 
-A fully synthesized, professionally processed sample pack covering 8 genres. Every loop is crossfade-treated for seamless playback in any DAW or sampler — no clicks, no pops, no static at the loop point.
-
+A fully synthesized, professionally processed sample pack covering 8 genres. Every loop is crossfade-treated for seamless playback in any DAW or sampler 
 ---
 
 ## 📦 Download
