@@ -1,8 +1,14 @@
-# 🎛️ Future Bass - Free Producer Sample Pack
+# 🏛️ Future Bass - Free Producer Sample Pack
 
-> **24-bit / 44.1kHz stereo · Seamless loops · Zero-click transitions · Free to use**
+> **Part of the [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB) sample pack ecosystem**
 
-A fully synthesized, professionally processed sample pack covering 8 genres. Every loop is crossfade-treated for seamless playback in any DAW or sampler 
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/GareBear99?label=Sponsors&logo=github)](https://github.com/sponsors/GareBear99)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/TizWildin)
+
+**24-bit / 44.1kHz stereo · Seamless loops · Zero-click transitions · Free to use**
+
+A fully synthesized, professionally processed sample pack covering 8 genres. Every loop is crossfade-treated for seamless playback in any DAW or sampler.
+
 ---
 
 ## 📦 Download
@@ -158,7 +164,31 @@ All sounds are 100% original — synthesized from scratch, no samples sampled.
 
 ## 🛠️ Built With
 
-Pure Python synthesis — `numpy` · `scipy` · `soundfile`  
+Pure Python synthesis — `numpy` · `scipy` · `soundfile`
 No hardware. No sample libraries. Every waveform generated from mathematical first principles.
 
 ---
+
+## 🔗 More Free Sound Packs from TizWildin
+
+| Pack | Description |
+|------|-------------|
+| [**Free 808 Producer Kit**](https://github.com/GareBear99/Free-808-Producer-Kit) | 94 hand-crafted 808 bass samples tuned to every chromatic key |
+| [**Free Riser Producer Kit**](https://github.com/GareBear99/Free-Riser-Producer-Kit) | 115+ risers and 63 downlifters — noise, synth, drum, FX, cinematic |
+| [**Phonk Producer Toolkit**](https://github.com/GareBear99/Phonk_Producer_Toolkit) | Drift phonk starter kit — 808s, cowbells, drums, MIDI, templates |
+| [**Free Dark Piano Sound Kit**](https://github.com/GareBear99/Free-Dark-Piano-Sound-Kit) | 88 piano notes + dark/cinematic loops and MIDI |
+
+Explore the full plugin and resource list: [**Awesome Audio Plugins & Dev**](https://github.com/GareBear99/awesome-audio-plugins-dev)
+
+---
+
+## ☕ Support
+
+If these samples help your production, consider supporting:
+
+- [GitHub Sponsors](https://github.com/sponsors/GareBear99)
+- [Buy Me a Coffee](https://buymeacoffee.com/TizWildin)
+
+---
+
+*Built by [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB) · 2026*
