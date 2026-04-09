@@ -2,10 +2,11 @@
 
 > **Part of the [TizWildin Entertainment](https://github.com/GareBear99/TizWildinEntertainmentHUB) sample pack ecosystem**
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/GareBear99?label=Sponsors&logo=github)](https://github.com/sponsors/GareBear99)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://buymeacoffee.com/TizWildin)
+<a href="https://github.com/sponsors/GareBear99"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-ea4aaa?style=flat&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
+<a href="https://buymeacoffee.com/garebear99"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" /></a>
+<a href="https://ko-fi.com/luciferai"><img src="https://img.shields.io/badge/Ko--fi-ff5e5b?style=flat&logo=ko-fi&logoColor=white" alt="Ko-fi" /></a>
 
-**24-bit / 44.1kHz stereo · Seamless loops · Zero-click transitions · Free to use**
+nn**24-bit / 44.1kHz stereo · Seamless loops · Zero-click transitions · Free to use**
 
 A fully synthesized, professionally processed sample pack covering 8 genres. Every loop is crossfade-treated for seamless playback in any DAW or sampler.
 
@@ -25,7 +26,6 @@ A fully synthesized, professionally processed sample pack covering 8 genres. Eve
 ---
 
 ## 📦 Download
-
 
 ---
 
@@ -199,8 +199,9 @@ Explore the full plugin and resource list: [**Awesome Audio Plugins & Dev**](htt
 
 If these samples help your production, consider supporting:
 
-- [GitHub Sponsors](https://github.com/sponsors/GareBear99)
-- [Buy Me a Coffee](https://buymeacoffee.com/TizWildin)
+<a href="https://github.com/sponsors/GareBear99"><img src="https://img.shields.io/badge/sponsor-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&style=for-the-badge" alt="GitHub Sponsors"></a>
+<a href="https://buymeacoffee.com/garebear99"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?logo=buy-me-a-coffee&logoColor=black&style=for-the-badge" alt="Buy Me a Coffee"></a>
+<a href="https://ko-fi.com/luciferai"><img src="https://img.shields.io/badge/Ko--fi-ff5e5b?logo=ko-fi&logoColor=white&style=for-the-badge" alt="Ko-fi"></a>
 
 ---
 
