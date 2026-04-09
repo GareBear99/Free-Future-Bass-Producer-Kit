@@ -9,6 +9,19 @@
 
 A fully synthesized, professionally processed sample pack covering 8 genres. Every loop is crossfade-treated for seamless playback in any DAW or sampler.
 
+`future-bass` `edm` `trap` `lo-fi` `house` `drum-and-bass` `boom-bap` `afrobeats` `sample-pack` `free-loops` `wav`
+
+---
+
+### Why this pack
+
+- **8 genres in 1 pack** — Future Bass, Trap, UK Drill, Lo-Fi, House, DnB, Boom Bap, Afrobeats
+- **24-bit quality** — professional headroom, no dithering artifacts
+- **Seamless loops** — cosine crossfade treated, zero-click on any DAW
+- **Full instrument kit** — drums, bass, synths, pads, and FX one-shots
+- **100% synthesized** — generated from mathematical first principles, fully original
+- **100% free** — commercial use allowed, no credit required
+
 ---
 
 ## 📦 Download
